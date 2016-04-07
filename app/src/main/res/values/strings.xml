@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Task1</string>
+    <string name="app_name">Task2</string>
     <string name="title_activity_maps">الخريطة</string>
+    <string name="attention">لا يمكن اختيار نقطة من هذا المستوى, الرجاء التقريب أكثر </string>
 </resources>
